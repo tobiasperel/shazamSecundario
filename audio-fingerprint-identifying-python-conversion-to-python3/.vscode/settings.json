@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "aaa",
+            "database": "${workspaceFolder:audio-fingerprint-identifying-python-conversion-to-python3}/db/fingerprints2.db"
+        }
+    ]
+}
